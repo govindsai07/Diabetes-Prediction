@@ -27,11 +27,3 @@ Achieved over X% accuracy (replace with your result)
 
 Confusion matrix and visual plots for better understanding
 
-📁 How to Run
-bash
-Copy
-Edit
-git clone https://github.com/govindsai07/diabetes-prediction-ml.git
-cd diabetes-prediction-ml
-pip install -r requirements.txt
-python diabetes_prediction.py
